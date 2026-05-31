@@ -71,12 +71,21 @@ The common theme is simple: AI agents create value when their work is bounded, e
 
 **Impact**: Describes the coordination layer needed to turn agent output into governed modernization progress.
 
+### 8. [Operating Evidence for Agentic Delivery](operating-evidence-for-agentic-delivery.md)
+
+**What**: A proof-oriented paper that uses anonymized run metrics and observed delivery patterns to show how agentic delivery can be measured.
+
+**Why**: Thought leadership becomes more credible when it is tied to operating evidence: issues, pull requests, validation, repairs, failures, and accepted outcomes.
+
+**Impact**: Provides a public-safe proof model, including Mermaid diagrams and a comparative cost model for traditional delivery versus a human-plus-agent operating loop.
+
 ## How to Read These Papers
 
 - Start with **Agentic-Driven Development** if you are thinking about delivery model, governance, and engineering operating rhythm.
 - Read **The AI Agent Operating Model** if you need to organize roles, gates, and accountability.
 - Read **Evidence-Driven Modernization** and **Why AI Modernization Needs a Control Plane** if you are applying agents to legacy or transformation work.
 - Read **AI Agent Cost Optimization**, **Cost per Accepted Outcome**, and **Reversible Context Compression** if you are scaling agent usage and need to manage economics, context quality, and evidence preservation.
+- Read **Operating Evidence for Agentic Delivery** if you want the proof model: what to measure, how the loop behaves, and how to compare it with traditional delivery economics.
 
 ## Position
 
