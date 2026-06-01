@@ -172,4 +172,4 @@ Evidence for this paper is deliberately thin, and it is more honest to say so th
 
 **What is not yet evidenced.** This engagement demonstrates the *shape* of reversible context handling, but it does not provide a controlled measurement of prompt-size reduction against preserved-evidence fidelity. That measurement requires a purpose-built benchmark.
 
-> [PLACEHOLDER: needs original benchmark - quantitative compression-ratio and retrieval-fidelity results from a controlled run, not a migration statistic.]
+**Future work.** A controlled benchmark - quantitative compression-ratio and retrieval-fidelity results from a purpose-built run rather than a migration statistic - is the next step to close this gap.

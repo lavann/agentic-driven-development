@@ -213,4 +213,4 @@ Anonymised observations from regulated-delivery engagements. Figures are banded;
 
 **The counter-case.** Where speed is applied without a control plane - without a coverage gate, embedded compliance, and evidence records - the same agent capability that accelerates delivery can just as quickly produce unreviewed, non-compliant change at scale.
 
-> [PLACEHOLDER: non-Gov/Health security-vulnerability example required before publishing an explicit security anecdote.]
+**Future work.** A concrete, publishable security-vulnerability example - where the control plane caught or prevented a defect before it reached production - would sharpen this section; it is deferred until a suitable anonymised case is available.
