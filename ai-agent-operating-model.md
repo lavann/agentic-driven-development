@@ -182,3 +182,17 @@ Avoid starting with broad autonomous implementation. The review burden can erase
 An AI agent operating model is the bridge between individual productivity and organizational capability.
 
 The organizations that succeed will not be those that simply allow more agent autonomy. They will be those that define roles, boundaries, evidence standards, review gates, and learning loops clearly enough that agent work becomes dependable.
+
+---
+
+## Field Evidence (Anonymised)
+
+Anonymised observations from real engagements. They illustrate repeatability, not a fixed template.
+
+**The same pattern, re-applied faster.** A "migration factory" operating pattern was first proven at an **Online Retailer** and then re-applied - more quickly - at an **Automotive Manufacturer**. The second engagement was faster precisely because it was a refined deployment of a proven pattern rather than a fresh start.
+
+**Portable IP.** The assets that travelled between engagements were reusable playbooks, prompt libraries, and starter repositories. These are what turn a one-off success into an operating capability.
+
+**Role separation as the spine.** Engagements consistently separated technical enablement, stakeholder and adoption work, and account context. The roles are described here by function, not by individual - the separation is what kept agent work governed as it scaled.
+
+The evidence for an operating model is not a single fast project. It is the same model producing results again, with portable assets and clear role boundaries.

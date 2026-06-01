@@ -225,3 +225,17 @@ This is enough to begin safely without waiting for a perfect architecture docume
 Modernization is not primarily a coding problem. It is a knowledge, risk, and sequencing problem.
 
 AI agents can accelerate modernization when they are used to build and maintain the evidence base. The teams that benefit most will be those that combine agent speed with evidence discipline, small slices, clear confidence markers, and reviewable decisions.
+
+---
+
+## Field Evidence (Anonymised)
+
+Real engagements, anonymised, with metrics coarsened and figures banded. Directional field evidence, not benchmarks.
+
+**Coverage at scale.** At a **Global Bank**, an evidence-led modernisation reached roughly 80% unit-test coverage across a codebase measured in millions of lines - coverage becoming the artefact that made further change safe.
+
+**Measured before/after on delivery.** At a **Financial-Markets Data Provider**, a feeds-modernisation programme cut delivery time by roughly half, removed most of the analysis-and-documentation effort, and reduced QA effort by about a third. A team of around eight engineers reached production quality within two weeks, with over half of the delivered code AI-generated and reviewed.
+
+**Volume migrated.** An **Insurer** and a **Data & Analytics Group** each migrated 100+ legacy programs to modern services - the kind of countable, reviewable unit that evidence-driven modernisation is designed to produce.
+
+In every case the modernisation claim is paired with a measured delta: coverage, time, effort, or volume.

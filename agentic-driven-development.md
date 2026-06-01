@@ -492,3 +492,15 @@ The winning pattern is bounded autonomy:
 - learning improves the system.
 
 This is how AI moves from isolated developer assistance to a governed engineering capability.
+
+---
+
+## Field Evidence (Anonymised)
+
+The following observations are drawn from real engagements. Names, and any sector detail that could identify a single organisation, have been removed; exact figures are banded. They are directional field evidence, not benchmarks.
+
+**Supervised speed, not unmanaged autonomy.** In a four-week coding-agent proof of concept at a **Software Vendor**, effectively all development work was routed through the agent using review-and-refine loops, with manual intervention only where the agent lacked evidence or reached a boundary. The supervision was not a tax on speed - it was the mechanism that made the speed safe to accept. Editor-level assistance alone contributed roughly a 30% productivity uplift, before counting the larger delegated-agent work.
+
+**Codifying the loop so it repeats.** At a **Wealth-Tech Platform**, a single team built a reusable editor agent and codified an upgrade procedure in an `agent.md` contract. This turned a manual, prompt-by-prompt task into an automated, repeatable upgrade with human checkpoints at each step - the operating pattern this paper describes, observed in practice.
+
+The common thread: the agent moved fast, and humans stayed on the loop. Boundaries, review, and a codified contract were what allowed the output to be trusted.

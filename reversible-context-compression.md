@@ -161,3 +161,15 @@ Promote only when evidence supports the change.
 Reversible context compression is a practical way to scale AI-agent workflows without sacrificing evidence. It recognizes that models do not need every repeated line in active context, but engineering teams still need exact evidence when decisions matter.
 
 The future of context optimization is not blind summarization. It is compact prompts backed by retrievable truth.
+
+---
+
+## Field Evidence (Anonymised)
+
+Evidence for this paper is deliberately thin, and it is more honest to say so than to borrow a metric that does not measure compression.
+
+**Closest adjacent pattern.** At a **Wealth-Tech Platform**, an agent-orchestration redesign moved conversation threads, messages, run state, and vector data out of in-memory storage into durable persistence - a document store plus a vector-enabled database. This is a real-world instance of compressing live context out of the active working set and rehydrating it on demand, reversibly. It is architectural evidence that the pattern is viable in production.
+
+**What is not yet evidenced.** This engagement demonstrates the *shape* of reversible context handling, but it does not provide a controlled measurement of prompt-size reduction against preserved-evidence fidelity. That measurement requires a purpose-built benchmark.
+
+> [PLACEHOLDER: needs original benchmark - quantitative compression-ratio and retrieval-fidelity results from a controlled run, not a migration statistic.]

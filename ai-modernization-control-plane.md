@@ -200,3 +200,17 @@ The control plane earns its place when it reduces uncertainty and prevents expen
 AI modernization needs more than coding speed. It needs a system that can coordinate evidence, decisions, agents, and review over time.
 
 The control plane is that system. It turns disconnected agent work into governed modernization progress.
+
+---
+
+## Field Evidence (Anonymised)
+
+Anonymised observations from regulated-delivery engagements. Figures are banded; sectors that could identify a single organisation are generalised.
+
+**Coverage as the trust gate.** At a **Global Bank**, roughly 80% unit-test coverage functioned as the confidence-and-compliance gate that allowed agentic speed to be trusted at scale. Without that gate, speed would have been a liability rather than an asset.
+
+**Standards-compliant output under control.** At a **Financial-Markets Data Provider**, two parallel proofs of concept reached standards-compliant output in a regulatory-reporting format, complete with tests, logging, and documentation - reaching roughly 90% functional coverage within a three-week build. In a separate feeds programme, standards and compliance checks were embedded directly into automated transformation and validation, rather than bolted on afterwards.
+
+**The counter-case.** Where speed is applied without a control plane - without a coverage gate, embedded compliance, and evidence records - the same agent capability that accelerates delivery can just as quickly produce unreviewed, non-compliant change at scale.
+
+> [PLACEHOLDER: non-Gov/Health security-vulnerability example required before publishing an explicit security anecdote.]

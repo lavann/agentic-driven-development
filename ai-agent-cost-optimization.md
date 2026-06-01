@@ -499,3 +499,17 @@ AI-agent cost optimization is not a finance-only exercise. It is an engineering 
 The goal is to reduce redundant context while preserving the evidence needed for correct, reviewable work. The strongest pattern is a context supply chain: stable prompts, scoped evidence, deterministic compression, exact retrieval, measured outcomes, and deliberate model routing.
 
 Organizations that build this discipline early will be better positioned to scale agentic workflows economically and safely.
+
+---
+
+## Field Evidence (Anonymised)
+
+These observations are drawn from real engagements, with names removed and financial figures expressed only as bands. They are directional, not a pricing guarantee.
+
+**Eliminated run-cost.** At an **Online Retailer**, AI-assisted modernisation eliminated a seven-figure annual licensing cost, with a mid-six-figure one-off migration to a container registry. At an **Automotive Manufacturer**, the same class of change eliminated a further seven-figure annual licensing cost against a low-six-figure migration - a recurring saving for a one-time, bounded cost.
+
+**Reframed build-vs-buy.** At a **Transport Technology Provider**, an eight-figure build-versus-buy decision was reframed once AI-assisted modernisation changed the cost of the "build" path.
+
+**Reclaimed engineering capacity.** Across engagements at the scale of roughly fifty developers, disciplined agent use recovered on the order of a couple of full-time-equivalents of capacity - worth several hundred thousand pounds a year - without adding headcount.
+
+The pattern is consistent: the largest savings came not from cheaper tokens, but from removing recurring licensing and reclaiming human capacity.

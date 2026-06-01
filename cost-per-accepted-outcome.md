@@ -206,3 +206,15 @@ It supports better questions:
 AI-agent economics should be measured at the workflow level. Token costs matter, but only as part of the full path from task intent to accepted result.
 
 Cost per accepted outcome gives engineering and finance leaders a shared language: not how much the model generated, but how much useful, validated work the system produced for the total cost invested.
+
+---
+
+## Field Evidence (Anonymised)
+
+Anonymised observations, with counts and times banded. Directional field evidence.
+
+**Cost per integration.** At a **Global Bank**, middleware API migration fell from the best part of a week per integration to under a day, across a programme of roughly two thousand integrations. Expressed as a unit rate, that is the clearest cost-per-accepted-outcome datapoint available: a large, repeatable unit of work whose per-unit cost dropped sharply while remaining reviewable.
+
+**Cost per developer-week.** Across a large programme, disciplined agent use recovered up to around half a day per developer per week. Aggregated across thousands of developer-weeks, the reclaimed capacity is itself a measurable accepted outcome.
+
+The unit matters. Once savings are expressed per integration or per developer-week, the economics can be reviewed, forecast, and defended - which is the whole point of measuring cost per accepted outcome.
